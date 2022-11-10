@@ -4,7 +4,7 @@ A little code challenge that calculates all the joined cells in a matrix.
   in the input matrix. The sizes don't need to be in any particular order.
 
   Note that a river can twist. In other words, it doesn't have to be a straight
-  vertical line or a straight horizontal line; it can be L-shaped, for example.
+  vertical line or a straight horizontal line; it can be L-shaped or Y-shaped, for example.
 
   You're given a two-dimensional array (a matrix) of potentially unequal height
   and width containing only `0`s and `1`s. Each
