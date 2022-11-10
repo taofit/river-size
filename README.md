@@ -13,7 +13,7 @@ A little code challenge that calculates all the joined cells in a matrix.
   horizontally or vertically adjacent (but not diagonally adjacent). The number
   of adjacent `1`s forming a river determine its size.
 
-##Sample Input:
+## Sample Input:
 ```
 matrix= [
   [1, 0, 0, 1, 0],
@@ -23,7 +23,7 @@ matrix= [
   [1, 0, 1, 1, 0],
 ]
 ```
-##Sample Output:
+## Sample Output:
 [1, 2, 2, 2, 5] 
 The numbers could be ordered differently.
 The rivers can be clearly seen here:
