@@ -14,21 +14,22 @@ a little code challenge that calculates all the joined cells in a matrix.
   of adjacent `1`s forming a river determine its size.
 
 ##Sample Input:
-matrix= [
+```matrix= [
   [1, 0, 0, 1, 0],
   [1, 0, 1, 0, 0],
   [0, 0, 1, 0, 1],
   [1, 0, 1, 0, 1],
   [1, 0, 1, 1, 0],
 ]
-
+```
 ##Sample Output:
 [1, 2, 2, 2, 5] 
 The numbers could be ordered differently.
 The rivers can be clearly seen here:
-
+```
 [1,  ,  , 1,  ],
 [1,  , 1,  ,  ],
 [ ,  , 1,  , 1],
 [1,  , 1,  , 1],
 [1,  , 1, 1,  ],
+```
