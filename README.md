@@ -14,7 +14,8 @@ a little code challenge that calculates all the joined cells in a matrix.
   of adjacent `1`s forming a river determine its size.
 
 ##Sample Input:
-```matrix= [
+```
+matrix= [
   [1, 0, 0, 1, 0],
   [1, 0, 1, 0, 0],
   [0, 0, 1, 0, 1],
