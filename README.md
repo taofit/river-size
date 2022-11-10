@@ -1,5 +1,5 @@
-# river-size
-a little code challenge that calculates all the joined cells in a matrix.
+# River Size
+A little code challenge that calculates all the joined cells in a matrix.
   The program returns an array of the sizes of all rivers represented
   in the input matrix. The sizes don't need to be in any particular order.
 
